@@ -6,7 +6,7 @@ I'm a recent **First-Class Computer Science Graduate** 🎓 with a passion for a
 
 **What I'm Currently Doing:**
 
-- 👨🏽‍💻 I’m currently working on [![Docker Pulls](https://img.shields.io/docker/pulls/ccatt601/listarr?label=Listarr)](https://github.com/christophercatt/listarr) for [Trakt.tv](https://trakt.tv/) integration into Sonarr & Radarr;
+- 👨🏽‍💻 I’m currently working on [**Listarr**](https://github.com/christophercatt/listarr) for [Trakt.tv](https://trakt.tv/) integration into Sonarr & Radarr;
 - 🌱 I’m currently learning full-stack app creation, primarily in **react.js**, **node.js**, **mongodb** and **docker**; 
 - 🤔 My interests are **software development**, container **creation** and **orchestration** with docker and **automation**;
 - 💼 Achieved a **First-Class** degree in **Computer Science** from the **University of East London**;
